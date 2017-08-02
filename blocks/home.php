@@ -46,22 +46,22 @@
 				<!-- Contenedor de cusos -->
 				<div class="container-fluid">
 					<div class="row">
-						<!-- CURSO Actualización Tributaria-->
+						<!-- CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
 						<div class="col-md-6">
 							<div class="item row">
 								<div class="col-md-12">
-									<h2 class="curse-name">Actualización Tributaria</h2>
+									<h2 class="curse-name">Excel y Access para el análisis de información y la generación de reportes efectivos</h2>
 								</div>
 								<div class="col-md-5">
 									<figure>
 										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
-											<a class="cta-btn" type="button" data="Actualización Tributaria">MÁS INFO</a>
+											<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
 										</figcaption>
 									</figure>
 									<div class="description">
-										<p>El cumplimiento de las obligaciones tributarias y la cambiante legislación en cuanto al tema fiscal ley 1819 de 2016 y sus decretos reglamentarios hace necesario que los interesados adquieran un conocimiento integral de las disposiciones que regulan los impuestos tanto en el contexto nacional como internacional.</p>
-										<a class="cta-btn" type="button" data="Actualización Tributaria">MÁS INFO</a>
+										<p>Adquiera herramientas para el efectivo procesamiento de información con su respectivo análisis y para la generación de reportes cuantitativos con ayuda de software de alta flexibilidad y disponibilidad (Excel y Access).</p>
+										<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
 									</div>
 								</div>
 								<div class="col-md-7">
@@ -70,43 +70,39 @@
 											<tbody> 
 												<tr> 
 													<th scope="row">Horas</th> 
-													<td>60</td>
+													<td>51</td>
 												</tr>
 												<tr>
 													<th scope="row">Inversión</th>
-													<td> $1.590.000 </td>
+													<td> $1.390.000 </td>
 												</tr>
 												<tr> 
 													<th scope="row">Contenido</th>
 													<td> 
 														<ul>
-															<li>Módulo 1: Renta Personas Naturales. </li>
-															<li>Módulo 2: Renta Personas Jurídicas.</li>
-															<li>Módulo 3: Retención en la Fuente. </li>
-															<li>Módulo 4: Impuesto a las Ventas.  </li>
-															<li>Módulo 5: Impuesto al Consumo. </li>
-															<li>Módulo 6: Procedimiento Tributario. </li>
-															<li>Módulo 7: Información Exógena. </li>
-															<li>Módulo 8: Impuestos Distritales, Régimen Tributario Especial y Saneamiento Fiscal.</li>
+															<li>Módulo 1: Estructura de la información. Módulo 2: Los indicadores de gestión</li>
+															<li>Módulo 2: Los indicadores de gestión</li>
+															<li>Módulo 3: Usando Excel </li>
+															<li>Módulo 4: Access. </li>
+															<li>Módulo 5: Modelo entidad-relación </li>
 														</ul>
-														
 													</td>
 												</tr>
 												<tr>
 													<th scope="row">Dirigido a</th>
-													<td> Profesionales de las diferentes aéreas como contaduría, economía, administración y afines.</td>
+													<td>El curso se dirige a los profesionales y ejecutivos con formación en distintas disciplinas, que trabajen con tablas de datos y manejo de la información.</td>
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Agosto 14 de 2017</td>
+													<td>Septiembre 18 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Septienbre 27 de 2017</td>
+													<td>Octubre 12 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
-													<td>Lunes a miércoles de 6:00 PM a 9:00 PM</td>
+													<td>Martes, miércoles y jueves de 6:00 PM a  9:00 PM</td>
 												</tr>
 											</tbody> 
 										</table> 
@@ -114,14 +110,279 @@
 								</div>
 							</div>
 						</div>
-						<!-- Termina CURSO Actualización Tributaria-->
+						<!-- Termina CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
+						<!-- CURSO Minería de Datos-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Minería de Datos</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>Fortalezca una actitud analítica basada en datos, gracias a la exploración práctica de las diferentes técnicas, retos y tendencias de la minería de datos; enmarcado en una metodología especializada para proyectos de esta índole.</p>
+										<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>42</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $1.290.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1: Introducción</li>
+															<li>Módulo 2: Preparación de Datos</li>
+															<li>Módulo 3: Modelos Descriptivos</li>
+															<li>Módulo 4: Modelos Predictivos</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Profesional de diferentes campos, con conocimientos en el uso de bases de datos, interesados en la aplicación de técnicas de análisis de datos que permitan enriquecer los procesos de toma de decisiones empresariales.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Septiembre 12 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Octubre 12 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Martes a jueves de 6:00 p.m. a 9:00 p.m</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO Minería de Datos-->
 					</div>
 				</div>
 			</div>
 			<div role="tabpanel" class="tab-pane" id="diplomado">
 				<div class="container-fluid">
 					<div class="row">
-						
+						<!-- CURSO BPM (Business Process Management)-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">BPM (Business Process Management)</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="BPM (Business Process Management)">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>El programa busca desarrollar en los participantes las competencias para diseñar, modelar, automatizar, analizar y mejorar procesos de negocio con el objetivo de mejorar la satisfacción de los clientes y la productividad de las organizaciones.</p>
+										<a class="cta-btn" type="button" data="BPM (Business Process Management)">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>100</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $3.300.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1: BPM como disciplina gerencial. </li>
+															<li>Módulo 2: Modelación de procesos</li>
+															<li>Módulo 3: Análisis y rediseño de procesos</li>
+															<li>Módulo 4: Automatización de procesos con BPMS.</li>
+															<li>Módulo 5: Medición y control de procesos. </li>
+															<li>Módulo 6: Gerencia de proyectos BPM</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Gerente, director, líder, analista, consultor o profesional de las áreas de tecnología informática (IT), productividad, procesos, calidad, logística, producción, operaciones, optimización de procesos, planeación, organización y métodos, entre otras.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Agosto 25 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Noviembre 25 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Viernes de 5:00 p.m. a 9:00 p.m. y Sábados de 8:00 a.m. a 12 m.</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO BPM (Business Process Management)-->
+						<!-- CURSO Inteligencia de Negocios-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Inteligencia de Negocios</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Inteligencia de Negocios">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>Adquiera los conocimientos y desarrolle  las habilidades necesarias para diseñar y construir un sistema de inteligencia de negocios de acuerdo al contexto y a las necesidades estratégicas de la empresa.</p>
+										<a class="cta-btn" type="button" data="Inteligencia de Negocios">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>117</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $3.690.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1: Conceptos básicos de bases de datos. </li>
+															<li>Módulo 2: Introducción.</li>
+															<li>Módulo 3: Bodegas de datos.</li>
+															<li>Módulo 4: Visualización y análisis OLAP.</li>
+															<li>Módulo 5: Minería de datos.</li>
+															<li>Módulo 6: Gestión de conocimiento.</li>
+															<li>Módulo 7: Big Data.</li>
+															<li>Módulo 8: Gestión del desempeño empresarial.</li>
+															<li>Módulo 9: Puesta en marcha del proyecto de inteligencia de negocio</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Profesionales relacionados con los temas del Diplomado, líderes de proyectos o de procesos, profesionales de las áreas de tecnología informática (IT) o inteligencia de negocios, consultores y profesionales en general.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Pendiente</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Pendiente</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Lunes, martes y jueves de 6:00 a 9:00 p.m. </td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO Inteligencia de Negocios-->
+					</div>
+					<div class="row">
+						<!-- CURSO Sistemas Integrados de Gestión HSEQ-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Sistemas Integrados de Gestión HSEQ</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Sistemas Integrados de Gestión HSEQ">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>Aprenda a interpretar adecuadamente los requisitos de las normas ISO 9001, ISO 14001 y OHSAS, los legales y reglamentarios aplicables, y logre fortalecer sus competencias para liderar y trabajar en equipo, mejorar las habilidades comunicativas orales y escritas y desarrollar un pensamiento basado en riesgos. </p>
+										<a class="cta-btn" type="button" data="Sistemas Integrados de Gestión HSEQ">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>129</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $4.190.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1:  Habilidades de un Auditor Interno de Sistemas Integrados de Gestión.</li>
+															<li>Módulo 2: Gestión de Calidad, Productividad y mejoramiento de procesos.</li>
+															<li>Módulo 3: Gestión Medio Ambiental.</li>
+															<li>Módulo 4: Gestión de Seguridad y Salud en el Trabajo.</li>
+															<li>Módulo 5: Auditor Interno Integral Norma ISO 9001, ISO 14001, OHSAS 18001.</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Líder de procesos, de calidad, medio ambiente, seguridad y/o salud, o profesional de las áreas de  gestión, mejoramiento de procesos, consultor, o que persona que esté interesado en el diseño e implementación de un sistema integrado de gestión HSEQ para su organización.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Agosto 29 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Diciembre 7 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Martes a jueves de 6:00 p.m. a 9:00 p.m.</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO Sistemas Integrados de Gestión HSEQ-->
 					</div>
 				</div>
 			</div>
