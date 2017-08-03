@@ -54,7 +54,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/excel&acces.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
 										</figcaption>
@@ -119,7 +119,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/mineria.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
 										</figcaption>
@@ -189,7 +189,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/bpm.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="BPM (Business Process Management)">MÁS INFO</a>
 										</figcaption>
@@ -255,7 +255,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/InteligenciaNegocios.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Inteligencia de Negocios">MÁS INFO</a>
 										</figcaption>
@@ -326,7 +326,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/hseq.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Sistemas Integrados de Gestión HSEQ">MÁS INFO</a>
 										</figcaption>
