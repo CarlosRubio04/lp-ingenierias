@@ -4,10 +4,11 @@
 			<div class="col-md-12">
 				<img src="img/logo.png" alt="Universidad Javeriana" class="img-responsive center-block">
 				<h1 class="text-center">
-					Ingenierias
+					Educación Continua <br/>
+					Facultad de Ingeniería
 				</h1>
 				<p class="text-center">
-					Some kind of description over here
+					Selecciona el programa de tu interés, ingresa tus datos y pronto te contactaremos:
 				</p>
 			</div>
 		</div>
@@ -23,9 +24,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2 class="text-center">Some Tittle</h2>
+				<h2 class="text-center">Diplomado y Cursos</h2>
 				<p class="text-center">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae eveniet, voluptatibus laborum modi tempora corporis autem laboriosam eum nulla pariatur, esse harum molestias quaerat soluta fuga, similique ea maiores, at.
+					Conoce algunos de nuestros programas de educación continua de la Facultad de Ingeniería de la Pontifica Universidad Javeriana.
 				</p>
 			</div>
 		</div>
@@ -37,7 +38,7 @@
 		<ul class="nav nav-pills nav-justified" role="tablist">
 			<li role="presentation" class="active"><a href="#cursos" aria-controls="cursos" role="tab" data-toggle="tab">Cursos</a></li>
 			<li role="presentation"><a href="#diplomado" aria-controls="diplomado" role="tab" data-toggle="tab">Diplomado</a></li>
-			<li role="presentation"><a href="#diplomado-virtual" aria-controls="diplomado-virtual" role="tab" data-toggle="tab">Programa para Profesionales</a></li>
+			<!-- <li role="presentation"><a href="#diplomado-virtual" aria-controls="diplomado-virtual" role="tab" data-toggle="tab">Programa para Profesionales</a></li> -->
 		</ul>
 
 		<!-- Tab panes -->
