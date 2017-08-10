@@ -83,6 +83,9 @@ label {
 .form-wrapper {
   
 }
+.error {
+  color: #fff;
+}
 .form-group {
   width: 50%;
   padding: 0 5px;
@@ -109,7 +112,11 @@ label {
   background-color: #007549;
   color: #fff;
 }
-
+.modal-title {
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+}
 .modal-content {
   background-color: #007549;
 }
@@ -132,7 +139,7 @@ label {
 /*Hero*/
 .hero {
   min-height: 50vh;
-  background-color: rgba(51, 122, 183, 0.7);
+  background-color: rgba(0, 1, 0, 0.7);
   background-image: url(../img/economicas.jpg);
   background-blend-mode: multiply;
   background-size: cover;
@@ -152,6 +159,7 @@ label {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 17px;
+  color: #4a4a4a;
   background-color: rgb(238, 238, 238);
   -webkit-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
@@ -181,7 +189,7 @@ label {
   display: flex;
   align-items: center;
   justify-content: center; 
-  background-color: rgba(255,204,1,.60);
+  background-color: rgba(0,1,0,.60);
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
@@ -205,6 +213,7 @@ label {
 }
 .cta-btn {
   background-color: #007549;
+  border: 1px solid #007549;
   color: #fff;
   font-weight: 500;
   font-size: 20px;      
@@ -219,6 +228,8 @@ label {
 }
 .cta-btn:hover {
   text-decoration: none;
+  background-color: #fff;
+  color: #007549;
 }
 /*Programas*/
 .curse-name {

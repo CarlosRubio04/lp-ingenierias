@@ -14,12 +14,6 @@
 							<input type="text" class="form-control" name="nombre" placeholder="Nombre completo" required/>
 						</div>
 						<div class="form-group">
-							<input type="text" class="form-control" name="empresa" placeholder="Empresa" required/>
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" name="cargo" placeholder="Cargo" required/>
-						</div>
-						<div class="form-group">
 							<input type="text" class="form-control" name="telefono" placeholder="Teléfono" required/>
 						</div>
 						<div class="form-group">

@@ -5,14 +5,12 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 header('Content-Type: text/html; charset=utf-8');
 
 $nombre = $_POST['nombre'];
-$empresa = $_POST['empresa'];
-$cargo = $_POST['cargo'];
-$empleados = $_POST['empleados'];
 $telefono = $_POST['telefono'];
 $correo = $_POST['correo'];
+$programa = $_POST['programa'];
 
 if (empty($_POST['campaignId'])) {
-	$campaignId = "";
+	$campaignId = "9";
 }else {
 	$campaignId = $_POST['campaignId'];
 }
@@ -27,7 +25,7 @@ if (empty($_POST['type'])) {
 	$type  = $_POST['type'];
 }
 
-$url='http://ares.3dm.com.co/bobm/Views/WS/?campaignId='.urlencode($campaignId).'&partnerId='.urlencode($partnerId).'&type='.urlencode($type).'&nombre='.urlencode($nombre).'&empresa='.urlencode($empresa).'&cargo='.urlencode($cargo).'&tel='.urlencode($telefono).'&mail='.urlencode($correo).'&empleados='.urlencode($empleados);
+$url='http://ares.3dm.com.co/bobm/Views/WS/?campaignId='.urlencode($campaignId).'&partnerId='.urlencode($partnerId).'&type='.urlencode($type).'&nombre='.urlencode($nombre).'&telefono='.urlencode($telefono).'&correo='.urlencode($correo).'&programa='.urlencode($programa);
 $curl_handle=curl_init();
 curl_setopt($curl_handle, CURLOPT_URL,$url);
 curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 30);
@@ -41,18 +39,16 @@ curl_close($curl_handle);
 //echo "Reply: $query";
 
 include("data.php");
-$to="comunicaciones@sintecto.com";
-$from="sintecto.com";
-$from_name="sintecto.com";
+$to="crubio@bmdigital.co";
+$from="Campaña Facultal de ingenierias";
+$from_name="Campaña Facultal de ingenierias";
 $msg="
 <p><b>Nombre:</b> $nombre</p>
-<p><b>Empresa:</b> $empresa</p>
-<p><b>Cargo:</b> $cargo</p>
-<p><b>Número de empleados:</b> $empleados</p>
 <p><b>Teléfono:</b> $telefono</p>
 <p><b>Correo:</b> $correo</p>
+<p><b>Programa:</b> $programa</p>
 "; // HTML message
-$subject="Nuevo mensaje sintecto.com";
+$subject="Campaña Facultal de ingenierias";
 /*End Config*/
 
 include("phpmailer/class.phpmailer.php");
