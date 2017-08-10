@@ -18,7 +18,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
       <![endif]-->
       <!-- Custom CSS -->
-      <link href="css/styles.css" rel="stylesheet">
+      <link href="css/styles.min.css" rel="stylesheet">
 
       <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
