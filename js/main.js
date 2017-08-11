@@ -6,11 +6,6 @@ function cargar(){
 function descargar(){
   $('#loader').fadeOut();
 }
-// carga asincronica de las imagenes
-var bLazy = new Blazy({ 
-  selector: '.lazyImg' // all images
-});
-
 // Validacion del formulario 1
 $('#contacto').validate(  {
   rules: {
