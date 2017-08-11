@@ -36,150 +36,14 @@
 	<div>
 		<!-- Nav tabs -->
 		<ul class="nav nav-pills nav-justified" role="tablist">
-			<li role="presentation" class="active"><a href="#cursos" aria-controls="cursos" role="tab" data-toggle="tab">Cursos</a></li>
-			<li role="presentation"><a href="#diplomado" aria-controls="diplomado" role="tab" data-toggle="tab">Diplomado</a></li>
+			<li role="presentation" class="active"><a href="#diplomado" aria-controls="diplomado" role="tab" data-toggle="tab">Diplomado</a></li>
+			<li role="presentation"><a href="#cursos" aria-controls="cursos" role="tab" data-toggle="tab">Cursos</a></li>
 			<!-- <li role="presentation"><a href="#diplomado-virtual" aria-controls="diplomado-virtual" role="tab" data-toggle="tab">Programa para Profesionales</a></li> -->
 		</ul>
 
 		<!-- Tab panes -->
 		<div class="tab-content">
-			<div role="tabpanel" class="tab-pane active" id="cursos">
-				<!-- Contenedor de cusos -->
-				<div class="container-fluid">
-					<div class="row">
-						<!-- CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
-						<div class="col-md-6">
-							<div class="item row">
-								<div class="col-md-12">
-									<h2 class="curse-name">Excel y Access para el análisis de información y la generación de reportes efectivos</h2>
-								</div>
-								<div class="col-md-5">
-									<figure>
-										<img src="img/excel&acces.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
-										<figcaption>
-											<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
-										</figcaption>
-									</figure>
-									<div class="description">
-										<p>Adquiera herramientas para el efectivo procesamiento de información con su respectivo análisis y para la generación de reportes cuantitativos con ayuda de software de alta flexibilidad y disponibilidad (Excel y Access).</p>
-										<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
-									</div>
-								</div>
-								<div class="col-md-7">
-									<div class="bs-example" data-example-id="striped-table">
-										<table class="table table-striped table-bordered"> 
-											<tbody> 
-												<tr> 
-													<th scope="row">Horas</th> 
-													<td>51</td>
-												</tr>
-												<tr>
-													<th scope="row">Inversión</th>
-													<td> $1.390.000 </td>
-												</tr>
-												<tr> 
-													<th scope="row">Contenido</th>
-													<td> 
-														<ul>
-															<li>Módulo 1: Estructura de la información. Módulo 2: Los indicadores de gestión</li>
-															<li>Módulo 2: Los indicadores de gestión</li>
-															<li>Módulo 3: Usando Excel </li>
-															<li>Módulo 4: Access. </li>
-															<li>Módulo 5: Modelo entidad-relación </li>
-														</ul>
-													</td>
-												</tr>
-												<tr>
-													<th scope="row">Dirigido a</th>
-													<td>El curso se dirige a los profesionales y ejecutivos con formación en distintas disciplinas, que trabajen con tablas de datos y manejo de la información.</td>
-												</tr>									
-												<tr>
-													<th scope="row">Fecha de Inicio</th>
-													<td>Septiembre 18 de 2017</td>
-												</tr>
-												<tr>
-													<th scope="row">Fecha Finalización</th>
-													<td>Octubre 12 de 2017</td>
-												</tr>
-												<tr>
-													<th scope="row">Horario</th>
-													<td>Martes, miércoles y jueves de 6:00 PM a  9:00 PM</td>
-												</tr>
-											</tbody> 
-										</table> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- Termina CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
-						<!-- CURSO Minería de Datos-->
-						<div class="col-md-6">
-							<div class="item row">
-								<div class="col-md-12">
-									<h2 class="curse-name">Minería de Datos</h2>
-								</div>
-								<div class="col-md-5">
-									<figure>
-										<img src="img/mineria.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
-										<figcaption>
-											<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
-										</figcaption>
-									</figure>
-									<div class="description">
-										<p>Fortalezca una actitud analítica basada en datos, gracias a la exploración práctica de las diferentes técnicas, retos y tendencias de la minería de datos; enmarcado en una metodología especializada para proyectos de esta índole.</p>
-										<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
-									</div>
-								</div>
-								<div class="col-md-7">
-									<div class="bs-example" data-example-id="striped-table">
-										<table class="table table-striped table-bordered"> 
-											<tbody> 
-												<tr> 
-													<th scope="row">Horas</th> 
-													<td>42</td>
-												</tr>
-												<tr>
-													<th scope="row">Inversión</th>
-													<td> $1.290.000 </td>
-												</tr>
-												<tr> 
-													<th scope="row">Contenido</th>
-													<td> 
-														<ul>
-															<li>Módulo 1: Introducción</li>
-															<li>Módulo 2: Preparación de Datos</li>
-															<li>Módulo 3: Modelos Descriptivos</li>
-															<li>Módulo 4: Modelos Predictivos</li>
-														</ul>
-													</td>
-												</tr>
-												<tr>
-													<th scope="row">Dirigido a</th>
-													<td>Profesional de diferentes campos, con conocimientos en el uso de bases de datos, interesados en la aplicación de técnicas de análisis de datos que permitan enriquecer los procesos de toma de decisiones empresariales.</td>
-												</tr>									
-												<tr>
-													<th scope="row">Fecha de Inicio</th>
-													<td>Septiembre 12 de 2017</td>
-												</tr>
-												<tr>
-													<th scope="row">Fecha Finalización</th>
-													<td>Octubre 12 de 2017</td>
-												</tr>
-												<tr>
-													<th scope="row">Horario</th>
-													<td>Martes a jueves de 6:00 p.m. a 9:00 p.m</td>
-												</tr>
-											</tbody> 
-										</table> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- Termina CURSO Minería de Datos-->
-					</div>
-				</div>
-			</div>
-			<div role="tabpanel" class="tab-pane" id="diplomado">
+			<div role="tabpanel" class="tab-pane active" id="diplomado">
 				<div class="container-fluid">
 					<div class="row">
 						<!-- CURSO BPM (Business Process Management)-->
@@ -384,6 +248,142 @@
 							</div>
 						</div>
 						<!-- Termina CURSO Sistemas Integrados de Gestión HSEQ-->
+					</div>
+				</div>
+			</div>
+			<div role="tabpanel" class="tab-pane" id="cursos">
+				<!-- Contenedor de cusos -->
+				<div class="container-fluid">
+					<div class="row">
+						<!-- CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Excel y Access para el análisis de información y la generación de reportes efectivos</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="img/excel&acces.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>Adquiera herramientas para el efectivo procesamiento de información con su respectivo análisis y para la generación de reportes cuantitativos con ayuda de software de alta flexibilidad y disponibilidad (Excel y Access).</p>
+										<a class="cta-btn" type="button" data="Excel y Access para el análisis de información y la generación de reportes efectivos">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>51</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $1.390.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1: Estructura de la información. Módulo 2: Los indicadores de gestión</li>
+															<li>Módulo 2: Los indicadores de gestión</li>
+															<li>Módulo 3: Usando Excel </li>
+															<li>Módulo 4: Access. </li>
+															<li>Módulo 5: Modelo entidad-relación </li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>El curso se dirige a los profesionales y ejecutivos con formación en distintas disciplinas, que trabajen con tablas de datos y manejo de la información.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Septiembre 18 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Octubre 12 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Martes, miércoles y jueves de 6:00 PM a  9:00 PM</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO Excel y Access para el análisis de información y la generación de reportes efectivos-->
+						<!-- CURSO Minería de Datos-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Minería de Datos</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="img/mineria.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>Fortalezca una actitud analítica basada en datos, gracias a la exploración práctica de las diferentes técnicas, retos y tendencias de la minería de datos; enmarcado en una metodología especializada para proyectos de esta índole.</p>
+										<a class="cta-btn" type="button" data="Minería de Datos">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>42</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $1.290.000 </td>
+												</tr>
+												<tr> 
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Módulo 1: Introducción</li>
+															<li>Módulo 2: Preparación de Datos</li>
+															<li>Módulo 3: Modelos Descriptivos</li>
+															<li>Módulo 4: Modelos Predictivos</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Profesional de diferentes campos, con conocimientos en el uso de bases de datos, interesados en la aplicación de técnicas de análisis de datos que permitan enriquecer los procesos de toma de decisiones empresariales.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Septiembre 12 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Octubre 12 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Martes a jueves de 6:00 p.m. a 9:00 p.m</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Termina CURSO Minería de Datos-->
 					</div>
 				</div>
 			</div>
