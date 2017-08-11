@@ -15,17 +15,11 @@
 				<div class="form-group">
 					<select name="programa" id="programa" class="form-control" required>
 						<option value="">Programa</option>
-						<option value="Actualización Tributaria">Actualización Tributaria</option>
-						<option value="Gestión del Riesgo Operativo y Continuidad del Negocio">Gestión del Riesgo Operativo y Continuidad del Negocio</option>
-						<option value="Estrategias de Marketing y Canales Digitales">Estrategias de Marketing y Canales Digitales</option>
-						<option value="Gestión Inmobiliaria">Gestión Inmobiliaria</option>
-						<option value="Gerencia Financiera">Gerencia Financiera</option>
-						<option value="Finanzas para No Financieros">Finanzas para No Financieros</option>
-						<option value="Administración del Riesgo y Auditoría Forense">Administración del Riesgo y Auditoría Forense</option>
-						<option value="Gestión del Marketing Estratégico">Gestión del Marketing Estratégico</option>
-						<option value="Gerencia Comercial Estratégica">Gerencia Comercial Estratégica</option>
-						<option value="Habilidades de Liderazgo y Dirección">Habilidades de Liderazgo y Dirección</option>
-						<option value="Gerencia de Proyectos">Gerencia de Proyectos</option>
+						<option value="Excel y Access para el análisis de información y la generación de reportes efectivos">Excel y Access para el análisis de información y la generación de reportes efectivos</option>
+						<option value="Minería de Datos">Minería de Datos</option>
+						<option value="BPM (Business Process Management)">BPM (Business Process Management)</option>
+						<option value="Inteligencia de Negocios">Inteligencia de Negocios</option>
+						<option value="Sistemas Integrados de Gestión HSEQ">Sistemas Integrados de Gestión HSEQ</option>
 					</select>
 				</div>
 				<div class="form-group-big">
