@@ -20,6 +20,13 @@
 						<option value="BPM (Business Process Management)">BPM (Business Process Management)</option>
 						<option value="Inteligencia de Negocios">Inteligencia de Negocios</option>
 						<option value="Sistemas Integrados de Gestión HSEQ">Sistemas Integrados de Gestión HSEQ</option>
+						<option value="Arquitectura Interior">Arquitectura Interior</option>
+						<option value="Virtual - Compensaciones por pérdida de biodiversidad">Virtual - Compensaciones por pérdida de biodiversidad</option>
+						<option value="Diseño y montaje de vitrinas">Diseño y montaje de vitrinas</option>
+						<option value="ITIL - Gestión de Tecnología Informática">ITIL - Gestión de Tecnología Informática</option>
+						<option value="Revit Architecture">Revit Architecture</option>
+						<option value="Virtual - Teórico práctico en Derecho Ambiental">Virtual - Teórico práctico en Derecho Ambiental</option>
+						<option value="Turismo de naturaleza responsable">Turismo de naturaleza responsable</option>
 					</select>
 				</div>
 				<div class="form-group-big">
